@@ -27,7 +27,7 @@ span {
 }
 
 .img-perfil {
-    background-image: url('../assets/icons/famec-32x32.png');
+    background-image: url('https://thispersondoesnotexist.com/');
     background-size: cover;
     background-position: center;
 }
